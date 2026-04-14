@@ -41,7 +41,7 @@ This study uses the Electric Vehicle Population Data (USA) dataset containing **
 
 ## 🗃️ Project Structure
 
-- `data/` — Cleaned and raw EV dataset (.csv)
+- `data/` — Raw EV dataset (.csv)
 - `tableau/` — Tableau workbook (.twbx)
 - `visuals/` — Screenshots of individual charts, dashboard, and action settings
 
